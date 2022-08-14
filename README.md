@@ -42,7 +42,7 @@ fun myBio(): String {
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Gustavo Gomes's StackShare Profile" height="30" width="30">
   </a>
   
-  <a href="https://gitlab.com/AnhellO">
+  <a href="https://gitlab.com/">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Gustavo Gomes's GitLab Profile" height="30" width="30">
   </a>
   
