@@ -19,7 +19,7 @@ fun myBio(): String {
 }
 ```
 
-<h2 align="center">You can reach me at discord</h2>
+<h2 align="center">You can reach me at:</h2>
 
 <p align="center">
   <a href="https://dev.to/">
@@ -28,6 +28,10 @@ fun myBio(): String {
 
   <a href="https://www.linkedin.com/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Gustavo Gomes's LinkedIn Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://pastebin.com/dux38pED">
+    <img src="https://media.discordapp.net/attachments/760135420599336971/1008189031298908260/Discord-Logo-Black.png" alt="Gustavo Gomes's Discord" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/">
